@@ -1,4 +1,6 @@
-﻿#include <iostream>
+// Point of intersection of a line segment and a triangle
+
+#include <iostream>
 #include <conio.h>
 #include <math.h>
 
